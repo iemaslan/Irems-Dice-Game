@@ -9,15 +9,15 @@ This is the first game I coded so it's very valuable to me. I can say the Turkis
 
 **HOW TO PLAY**
 
-1)There is a path starting with one and ending with one hundred.
+🎲There is a path starting with one and ending with one hundred.
 
-2)The first player reaches square one hundred and wins the game.
+🎲The first player reaches square one hundred and wins the game.
 
-3)There are two lucky squares and two penalty squares chosen by two players before the game begins.
+🎲There are two lucky squares and two penalty squares chosen by two players before the game begins.
 
-4)When one player steps into one of the penalty squares, the player jumps ten squares back, and when the player steps into one of the lucky squares, the player jumps ten squares forward.
+🎲When one player steps into one of the penalty squares, the player jumps ten squares back, and when the player steps into one of the lucky squares, the player jumps ten squares forward.
 
-5)After the players select lucky and penalty squares, they start the game by rolling a six-sided dice and going forward accordingly.
+🎲After the players select lucky and penalty squares, they start the game by rolling a six-sided dice and going forward accordingly.
 
 
 
