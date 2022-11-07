@@ -1,9 +1,9 @@
-# Irem's Dice Game
+# Irem's Dice Game🎲
 AIN1001 First Homework Assignment - A Game for Two Players (06/11/2022)
 
 **PREAMBLE**
 
-This is the first game I coded so it's very valuable to me. I can say the Turkish idiom "My first eye pain"
+This is the first game I coded so it's very valuable to me. I can say the Turkish idiom "İlk göz ağrım🥹❤️"
 
 
 
@@ -25,4 +25,4 @@ This is the first game I coded so it's very valuable to me. I can say the Turkis
 
 Any code console
 
-*GOOD LUCK!
+*GOOD LUCK!🍀
