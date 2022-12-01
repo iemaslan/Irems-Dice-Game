@@ -3,7 +3,7 @@ AIN1001 First Homework Assignment - A Game for Two Players (06/11/2022)
 
 **PREAMBLE**
 
-This is the first game I coded so it's very valuable to me. I can say the Turkish idiom "İlk göz ağrım🥹❤️"
+Since this was the first game I ever developed, it holds great value for me. I can say the Turkish idiom "İlk göz ağrım🥹❤️"
 
 
 
